@@ -22,6 +22,15 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
+## 🧐 Interests
+> 데이터에서 가치를 찾아내는 AI 기술과 시스템 구축에 관심이 많습니다.
+
+* **🔮 Prediction & Recommendation Systems** (예측 및 추천시스템)
+* **💾 Database & Data Engineering** (데이터베이스 구축 및 최적화)
+* **🗣️ Natural Language Processing (NLP)** (자연어처리 및 LLM)
+* **👁️ Computer Vision** (컴퓨터비전 및 이미지 분석)
+
+<br/>
 
 ## 💼 Work Experience
 
