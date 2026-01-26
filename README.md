@@ -23,12 +23,11 @@
 
 ---
 ## 🧐 Interests
-> 데이터에서 가치를 찾아내는 AI 기술과 시스템 구축에 관심이 많습니다.
 
-* **🔮 Prediction & Recommendation Systems** (예측 및 추천시스템)
-* **💾 Database & Data Engineering** (데이터베이스 구축 및 최적화)
-* **🗣️ Natural Language Processing (NLP)** (자연어처리 및 LLM)
-* **👁️ Computer Vision** (컴퓨터비전 및 이미지 분석)
+* **🔮 Prediction & Recommendation Systems**
+* **💾 Database & Data Mining**
+* **🗣️ Natural Language Processing (NLP)**
+* **👁️ Computer Vision**
 
 <br/>
 
@@ -85,7 +84,7 @@
 * **[LSTM 기반 복권 구매자의 행동분석]** (2025)
     * 학회/저널명: [KCI]
     * 역할: 제1저자
-    * (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003228579)
+    * Link : https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003228579
 
 ---
 
