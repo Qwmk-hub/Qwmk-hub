@@ -24,28 +24,41 @@
 ---
 
 ## 💼 Work Experience
-> 실무 경험을 통해 성장하고 있습니다.
 
 | Period | Company/Project | Role | Description |
 | :--- | :--- | :--- | :--- |
-| 202X.XX - Present | **[회사/팀 이름]** | Frontend Developer | - React 및 TypeScript를 활용한 대시보드 개발<br>- Bubble.io를 활용한 MVP 제작 |
-| 202X.XX - 202X.XX | **[이전 경력]** | Backend Developer | - FastAPI 기반 RESTful API 설계 및 구축<br>- Docker를 활용한 배포 환경 구성 |
+| 2025.07 - Present | **[롯데이노베이트/OCR 기반 스마트문서요약 시스템]** | Frontend Developer | - React 및 TypeScript를 활용한 웹사이트 개발 |
 
 <br/>
 
 ## 🏢 Internships
-> 인턴십을 통해 현업 프로세스를 익혔습니다.
-
 * **[한국전기연구소]** (2026.01 - 2026.02)
-    * 직무: Nerral Network 
-    * 주요 활동: 사내 어드민 페이지 유지보수 및 Redis 캐싱 도입으로 응답 속도 개선
+    * 직무: Deep Learning Engineer 
+    * 주요 활동: RAG 기반 지식 검색 엔진
+
+<br/>
+
+## 🏢 Career
+* **[Intelligence and Computing]** (2024.07 - 2025.02)
+    * 직무: 학부연구생
+    * 주요 활동: PYTORCH 모델 연구
+
+* **[DWNC]** (2025.01 - 2025.12)
+    * 직무: 학회장
+    * 연합학교 : 서울대학교, 연세대학교, 고려대학교 
+    * 주요 활동: 학회 운영 및 관리
+
+* **[HYAI]** (2026.01 - Present)
+    * 직무: 학회장
+    * 소속 : 소프트웨어융합대학 
+    * 주요 활동: 학회 운영 및 관리
 
 <br/>
 
 ## 🏆 Awards & Honors
-
 * **[최우수]**, [SW/ICT/AI 종합 학술대회] (2025.12)
     * 주최: [한양대학교]
+    * 세션 : 수리데이터사이언스
     * 내용: MFCC 기반 코골이 탐지
 * **[우수]**, [한양또래튜터링] (2025.12)
     * 주최: [한양대학교]
@@ -60,7 +73,6 @@
 <br/>
 
 ## 📝 Publications & Papers
-
 * **[LSTM 기반 복권 구매자의 행동분석]** (2025)
     * 학회/저널명: [KCI]
     * 역할: 제1저자
