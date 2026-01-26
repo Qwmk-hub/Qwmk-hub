@@ -35,7 +35,7 @@
 
 | Period | Company/Project | Role | Description |
 | :--- | :--- | :--- | :--- |
-| 2025.07 - Present | **[롯데이노베이트/OCR 기반 스마트문서요약 시스템]** | Frontend Developer | - React 및 TypeScript를 활용한 웹사이트 개발 |
+| 2025.07 - Present | **[롯데이노베이트/OCR 기반 스마트문서요약 시스템]** | Frontend Developer |
 
 <br/>
 
