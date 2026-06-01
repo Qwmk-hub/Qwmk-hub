@@ -4,11 +4,14 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bubble.io](https://img.shields.io/badge/Bubble.io-%23242A39.svg?style=for-the-badge&logo=bubble&logoColor=white)
 
 ### 💾 Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🖌 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -20,10 +23,9 @@
 ---
 ## 🧐 Interests
 
-* **🔮 Prediction & Recommendation Systems**
-* **💾 Database & Data Mining**
-* **🗣️ Natural Language Processing (NLP)**
-* **👁️ Computer Vision**
+* **추천시스템**
+* **자연어처리**
+* **컴퓨터비전**
 
 <br/>
 
@@ -31,14 +33,14 @@
 
 | Period | Company/Project | Role | Description |
 | :--- | :--- | :--- | :--- |
-| 2025.07 - Present | **[롯데이노베이트/OCR 기반 스마트문서요약 시스템]** | Frontend Developer |
+| 2025.07 - 2026.06 | **[롯데이노베이트/OCR 기반 스마트문서요약 시스템]** | Frontend Developer |
 
 <br/>
 
 ## 🏢 Internships
 * **[한국전기연구소]** (2026.01 - 2026.02)
     * 직무: Deep Learning Engineer 
-    * 주요 활동: RAG 기반 지식 검색 엔진
+    * 주요 활동: LSTM 기반 전력전기량 예측
 
 <br/>
 
@@ -46,11 +48,6 @@
 * **[Intelligence and Computing]** (2024.07 - 2025.02)
     * 직무: 학부연구생
     * 주요 활동: PYTORCH 모델 연구
-
-* **[DWNC]** (2025.01 - 2025.12)
-    * 직무: 학회장
-    * 연합학교 : 서울대학교, 연세대학교, 고려대학교 
-    * 주요 활동: 학회 운영 및 관리
 
 * **[HYAI]** (2026.01 - Present)
     * 직무: 학회장
