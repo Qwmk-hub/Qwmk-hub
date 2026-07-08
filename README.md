@@ -68,10 +68,19 @@
     * 직무 : Deep Learning Enginner, Full Stack Developer
     * 주요 활동: 비전 기반 혈구 탐색 및 분류
     * Tech : Convolution Neural Network (ConvNext, EfficientNet, MobileNet, ResNet50), Yolo(Yolov5, Yolov8, Yolov11), DETR (RT-DETR, RF-DETR)
+    * Stack : Typescript, React, Python, FastAPI, Docker
     * Frontend code : https://github.com/Qwmk-hub/Role-Roll-frontend
     * Backend code : https://github.com/Qwmk-hub/Role-Roll-backend
     * link : https://role-roll.github.io/Role-Roll-frontend/
 <br/>
+
+### 머신러닝
+
+* **[데이터사이언스]** (2026년 1학기)
+    * 직무 : Machine Learning Engineer, Full Stack Develop
+    * 주요 활동: 
+    * Tech : Convolution Neural Network (ConvNext, EfficientNet)
+    * code : https://github.com/Qwmk-hub/Development-of-the-state-detection-system-of-the-operating-part-of-the-multi-function-machine-using-
 
 ## 🏢 Career
 * **[Intelligence and Computing]** (2024.07 - 2025.02)
