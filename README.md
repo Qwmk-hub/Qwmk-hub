@@ -55,9 +55,7 @@
 ---
 # 🧐 Sub Projects
 
-## 추천시스템
-
-### 자연어처리
+## 자연어처리
 
 * **[데이콘]** (2026.07)
     * 직무 : Deep Learning Enginner
