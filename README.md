@@ -19,6 +19,13 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
+## Major
+**Hanyang University ERICA**  
+B.S. in Mathematical Data Science  
+Additional Majors in Artificial Intelligence and Intelligent Robotics  
+Minor in ICT Convergence, Media Technology
+
+---
 ## 🧐 Interests
 
 * **추천시스템**
