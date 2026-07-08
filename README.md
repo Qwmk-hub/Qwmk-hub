@@ -21,30 +21,25 @@
 ---
 ## Major
 **Hanyang University ERICA**  
-B.S. in Mathematical Data Science  
-Additional Majors in Artificial Intelligence and Intelligent Robotics  
-Minor in ICT Convergence, Media Technology
+- B.S. in Mathematical Data Science  
+- Additional Majors in Artificial Intelligence and Intelligent Robotics  
+- Minor in ICT Convergence, Media Technology
 
 ---
-## 🧐 Interests
-
-* **추천시스템**
-* **자연어처리**
-* **컴퓨터비전**
-
-<br/>
 
 ## 🏢 Internships
 * **[롯데이노베이트]** (2025.07 - 2026.06)
     * 직무: Frontend Developer
     * 주요 활동: OCR 기반 스마트문서요약 시스템
     * link : https://www.show-gy.com/
-    * Code : 
+    * Code : https://github.com/Qwmk-hub/show-gy-frontend
+    * Stack : TypeScript · React · Vite · Axios · PWA · TWA (Document UI Stack : Quill · Markdown · KaTeX · PDF Export)
 
 * **[한국전기연구소]** (2026.01 - 2026.02)
     * 직무: Deep Learning Engineer 
     * 주요 활동: LSTM 기반 전력전기량 예측
-    * link : https://github.com/Qwmk-hub/KERI-ERICA-2025-winter-project-main/tree/main/LSTM-project
+    * code : https://github.com/Qwmk-hub/KERI-ERICA-2025-winter-project-main/tree/main/LSTM-project
+    * Stack : Pytorch · LSTM
 
 <br/>
 
@@ -52,6 +47,14 @@ Minor in ICT Convergence, Media Technology
     * 직무: AI Agent Developer
     * 주요 활동: Magron 웹사이트 개발, RAG기반 챗봇 개발
     * link : <개발중>
+<br/>
+
+## 🧐 Interests
+
+* **추천시스템**
+* **자연어처리**
+* **컴퓨터비전**
+
 <br/>
 
 ## 🏢 Career
@@ -63,6 +66,7 @@ Minor in ICT Convergence, Media Technology
     * 직무: 학회장
     * 소속 : 소프트웨어융합대학 
     * 주요 활동: 학회 운영 및 관리
+    * link : www.hyai.kr
 
 <br/>
 
@@ -71,6 +75,7 @@ Minor in ICT Convergence, Media Technology
     * 주최: [한양대학교]
     * 세션 : 수리데이터사이언스
     * 내용: MFCC 기반 코골이 탐지
+      
 * **[우수]**, [한양또래튜터링] (2025.12)
     * 주최: [한양대학교]
     * 내용: 자료구조와 알고리즘 튜터링
@@ -78,6 +83,7 @@ Minor in ICT Convergence, Media Technology
 * **[우수]**, [WE-MEET 경진대회] (2025.12)
     * 주최: [지능형로봇사업단]
     * 내용: 운동데이터 기반 행동분류
+      
 * **[장려]**, [교육부/한국연구재단/COSS협의회 로보틱스 대회] (2026.01)
     * 주최: [교육부/한국연구재단/COSS협의회]
     * 내용: AI 로보틱스를 활용한 비전 어플리케이션 개발
@@ -92,7 +98,7 @@ Minor in ICT Convergence, Media Technology
 * **[LSTM 기반 복권 구매자의 행동분석]** (2025)
     * 학회/저널명: [KCI]
     * 역할: 제1저자
-    * Link : https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003228579
+    * link : https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003228579
 
 ---
 
