@@ -108,10 +108,12 @@
 * **[장려]**, [교육부/한국연구재단/COSS협의회 로보틱스 대회] (2026.01)
     * 주최: [교육부/한국연구재단/COSS협의회]
     * 내용: AI 로보틱스를 활용한 비전 어플리케이션 개발
+    * code : https://github.com/Qwmk-hub/Box-Depalleting
  
 * **[우수]**, [소프트웨어캡스톤디자인 대회] (2026.06)
    * 주최: [SW중심대학사업단]
    * 내용: AI기반 업무 문서 요약 및 편집 시스템
+   * code : https://github.com/Qwmk-hub/show-gy-frontend
 
 <br/>
 
