@@ -118,7 +118,7 @@
 * **[NYPC]** (2025.07~08)
     * 직무 : Algorithm Developer
     * 주요 활동: 버섯게임, 요트다이스 게임 알고리즘 개발
-    * code : https://github.com/Qwmk-hub/An-Analysis-of-the-Relationship-between-the-number-of-Subway-Cars-and-the-Revitalization-of-the-Comm
+    * code : https://github.com/Qwmk-hub/NYPC
     * 요약설명 : 상대방과의 코드 배틀을 통해 상대방 코드의 허점을 발견하고 우리의 알고리즘이 그곳에 파고들수 있게 함. 버섯게임 같은 경우 사과게임에 땅따먹기를 추가한 버전인데, 상대 알고리즘의 바보짓을 유도하여 우리 알고리즘이 더 많은 땅을 얻을수 있게 함. 요트다이스 경우 우선순위를 정하여 더 높은 족보를 우선적으로 확보할수 있게끔 함
  
 * **[NYPC]** (2026.07)
