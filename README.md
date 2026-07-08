@@ -50,11 +50,20 @@
 <br/>
 
 ---
-## 🧐 Projects
+## 🧐 Main Projects
+
+---
+## 🧐 Serve Projects
 
 ### 추천시스템
 
 ### 자연어처리
+
+* **[데이콘]** (2026.07)
+    * 직무 : Deep Learning Enginner
+    * 주요 활동: AI Agent 행동(Action) 의사결정 예측 챌린지
+    * Tech : BERT, CodeBERT, DistilBERT
+    * code : <개발중>
 
 ### 컴퓨터비전
 
@@ -94,10 +103,23 @@
 ### 데이터 분석
 
 * **[데이터 처리]** (2024년 1학기)
-    * 직무 : Developer, Team Leader
+    * 직무 : Developer
     * 주요 활동: 지하철 승하차 인원과 상권 활성화의 관계 분석
     * code : https://github.com/Qwmk-hub/An-Analysis-of-the-Relationship-between-the-number-of-Subway-Cars-and-the-Revitalization-of-the-Comm
+ 
+### 알고리즘 설계와 분석
 
+* **[NYPC]** (2025.07~08)
+    * 직무 : Algorithm Developer
+    * 주요 활동: 버섯게임, 요트다이스 게임 알고리즘 개발
+    * code : https://github.com/Qwmk-hub/An-Analysis-of-the-Relationship-between-the-number-of-Subway-Cars-and-the-Revitalization-of-the-Comm
+ 
+* **[NYPC]** (2026.07)
+    * 직무 : Algorithm Developer
+    * 주요 활동: 
+    * code : <개발중>
+
+---
 ## 🏢 Career
 * **[Intelligence and Computing]** (2024.07 - 2025.02)
     * 직무: 학부연구생
@@ -131,6 +153,7 @@
 
 <br/>
 
+---
 ## 🏆 Awards & Honors
 * **[최우수]**, [SW/ICT/AI 종합 학술대회] (2025.12)
     * 주최: [한양대학교]
@@ -160,6 +183,7 @@
 
 <br/>
 
+---
 ## 📝 Publications & Papers
 * **[LSTM 기반 복권 구매자의 행동분석]** (2025)
     * 학회/저널명: [KCI]
