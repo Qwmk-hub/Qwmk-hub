@@ -34,15 +34,13 @@ Minor in ICT Convergence, Media Technology
 
 <br/>
 
-## 💼 Work Experience
-
-| Period | Company/Project | Role | Description |
-| :--- | :--- | :--- | :--- |
-| 2025.07 - 2026.06 | **[롯데이노베이트/OCR 기반 스마트문서요약 시스템]** | Frontend Developer |
-
-<br/>
-
 ## 🏢 Internships
+* **[롯데이노베이트]** (2025.07 - 2026.06)
+    * 직무: Frontend Developer
+    * 주요 활동: OCR 기반 스마트문서요약 시스템
+    * link : https://www.show-gy.com/
+    * Code : 
+
 * **[한국전기연구소]** (2026.01 - 2026.02)
     * 직무: Deep Learning Engineer 
     * 주요 활동: LSTM 기반 전력전기량 예측
