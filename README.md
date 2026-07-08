@@ -78,9 +78,25 @@
 
 * **[데이터사이언스]** (2026년 1학기)
     * 직무 : Machine Learning Engineer, Full Stack Develop
-    * 주요 활동: 
-    * Tech : Convolution Neural Network (ConvNext, EfficientNet)
-    * code : https://github.com/Qwmk-hub/Development-of-the-state-detection-system-of-the-operating-part-of-the-multi-function-machine-using-
+    * 주요 활동: 미국 물류 운송 데이터 기반 예측 모델 구축
+    * Tech : Xgboost, Catboost, Randomforest, LightGBM
+    * Stack : Javascript, Python, FastAPI
+    * Frontend code : https://github.com/Qwmk-hub/nomad-frontend
+    * Backend code : https://github.com/Qwmk-hub/nomad-backend
+    * Model code : https://github.com/Qwmk-hub/nomad-AI
+ 
+* **[데이콘]** (2026.02)
+    * 직무 : Machine Learning Engineer
+    * 주요 활동: 9기 수강생 데이터 기반 10기 수강생 수료 여부 이진 분류 예측
+    * Tech : Catboost, Randomforest
+    * code : https://github.com/Qwmk-hub/dacon-project
+ 
+### 데이터 분석
+
+* **[데이터 처리]** (2024년 1학기)
+    * 직무 : Developer, Team Leader
+    * 주요 활동: 지하철 승하차 인원과 상권 활성화의 관계 분석
+    * code : https://github.com/Qwmk-hub/An-Analysis-of-the-Relationship-between-the-number-of-Subway-Cars-and-the-Revitalization-of-the-Comm
 
 ## 🏢 Career
 * **[Intelligence and Computing]** (2024.07 - 2025.02)
