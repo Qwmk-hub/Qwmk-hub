@@ -100,6 +100,7 @@
 * **[우수]**, [한양또래튜터링] (2025.12)
     * 주최: [한양대학교]
     * 내용: 자료구조와 알고리즘 튜터링
+    * code : https://github.com/Qwmk-hub/Data-Structure-Theory-Tutoring
       
 * **[우수]**, [WE-MEET 경진대회] (2025.12)
     * 주최: [지능형로봇사업단]
