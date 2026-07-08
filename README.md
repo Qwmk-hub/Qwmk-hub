@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
-## Major
+# Major
 **Hanyang University ERICA**  
 - B.S. in Mathematical Data Science  
 - Additional Majors in Artificial Intelligence and Intelligent Robotics  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🏢 Internships
+# 🏢 Internships
 * **[롯데이노베이트]** (2025.07 - 2026.06)
     * 직무: Frontend Developer
     * 주요 활동: OCR 기반 스마트문서요약 시스템
@@ -50,12 +50,12 @@
     * 요약설명 : <활동중>
 
 ---
-## 🧐 Main Projects
+# 🧐 Main Projects
 
 ---
-## 🧐 Sub Projects
+# 🧐 Sub Projects
 
-### 추천시스템
+## 추천시스템
 
 ### 자연어처리
 
@@ -66,7 +66,7 @@
     * code : <개발중>
     * 요약설명 : <활동중>
 
-### 컴퓨터비전
+## 컴퓨터비전
 
 * **[머신러닝]** (2025년 1학기)
     * 직무 : Deep Learning Enginner
@@ -86,7 +86,7 @@
     * 요약설명 : CNN 모델, YOLO 모델, DETR 모델 3종류의 모델로 적혈구/낫모양적혈구/혈소판/백혈구가 모여있는 이미지를 탐지하게 함. 현미경으로 혈구를 관찰하는 연구원들이 좀 더 편하게 탐지할수 있게끔 하기 위해서이다. 결과적으로는 CNN의 ConvNext 모델이 미세한 백혈구/혈소판까지 모두 잡아낼수 있었다. 
 <br/>
 
-### 머신러닝
+## 머신러닝
 
 * **[데이터사이언스]** (2026년 1학기)
     * 직무 : Machine Learning Engineer, Full Stack Develop
@@ -105,7 +105,7 @@
     * code : https://github.com/Qwmk-hub/dacon-project
     * 9기 수강생들의 행동패턴(듣는 강의수, 관심분야, 미래 진로)등을 바탕으로 머신러닝 모델이 학습하게 하였고, 이후 10기 수강생들이 얼마나 끝까지 완주할수 있을지를 예측하게 함
  
-### 데이터 분석
+## 데이터 분석
 
 * **[데이터 처리]** (2024년 1학기)
     * 직무 : Developer
@@ -113,7 +113,7 @@
     * code : https://github.com/Qwmk-hub/An-Analysis-of-the-Relationship-between-the-number-of-Subway-Cars-and-the-Revitalization-of-the-Comm
     * 요약설명 : 지하철 시간대별 승하차 인원과 그때의 상권이 얼마나 활성화되는지를 분석하여 추후에 광고효과, 마케팅이 어떻게 하면 잘 이루어낼수 있을지를 방향 제시함
  
-### 알고리즘 설계와 분석
+## 알고리즘 설계와 분석
 
 * **[NYPC]** (2025.07~08)
     * 직무 : Algorithm Developer
@@ -128,7 +128,7 @@
     * 요약설명 : <활동중>
 
 ---
-## 🏢 Career
+# 🏢 Career
 * **[Intelligence and Computing]** (2024.07 - 2025.02)
     * 직무: 학부연구생
     * 주요 활동: Pytorch 모델 연구
@@ -140,7 +140,7 @@
 <br/>
 
 ---
-## Leadership Activity
+# Leadership Activity
 * **[Lion's College Dream Leader]** (2025.01 - 2025.12)
     * 직무: 자율전공학부 신입생 멘토
     * 소속 : 라이온스칼리지
@@ -162,7 +162,7 @@
 <br/>
 
 ---
-## 🏆 Awards & Honors
+# 🏆 Awards & Honors
 * **[최우수]**, [SW/ICT/AI 종합 학술대회] (2025.12)
     * 주최: [한양대학교]
     * 세션 : 수리데이터사이언스
@@ -192,7 +192,7 @@
 <br/>
 
 ---
-## 📝 Publications & Papers
+# 📝 Publications & Papers
 * **[LSTM 기반 복권 구매자의 행동분석]** (2025)
     * 학회/저널명: [KCI]
     * 역할: 제1저자
@@ -200,5 +200,5 @@
 
 ---
 
-### 📫 Contact
+# 📫 Contact
 * Email: [qwmk1025@hanyang.ac.kr]
