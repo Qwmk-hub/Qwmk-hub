@@ -46,12 +46,14 @@ Minor in ICT Convergence, Media Technology
 * **[한국전기연구소]** (2026.01 - 2026.02)
     * 직무: Deep Learning Engineer 
     * 주요 활동: LSTM 기반 전력전기량 예측
+    * link : https://github.com/Qwmk-hub/KERI-ERICA-2025-winter-project-main/tree/main/LSTM-project
 
 <br/>
 
 * **[마그론]** (2026.07 - 2026.08)
     * 직무: AI Agent Developer
     * 주요 활동: Magron 웹사이트 개발, RAG기반 챗봇 개발
+    * link : <개발중>
 <br/>
 
 ## 🏢 Career
