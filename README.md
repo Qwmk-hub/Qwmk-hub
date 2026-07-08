@@ -34,20 +34,20 @@
     * link : https://www.show-gy.com/
     * Code : https://github.com/Qwmk-hub/show-gy-frontend
     * Stack : TypeScript · React · Vite · Axios · PWA · TWA (Document UI Stack : Quill · Markdown · KaTeX · PDF Export)
+    * 요약설명 : 서열이 있는 팀 프로젝트에서, 팀장의 스타일에 맞춘 챗봇이 팀원들이 문서를 작성하는데에 도움을 줌. 챗봇이 팀장이 쓴 작성한 글을 바탕으로 학습하며 RAG 기반으로 사용자에게 답하도록 LLM 아키텍처를 구현함
 
 * **[한국전기연구소]** (2026.01 - 2026.02)
     * 직무: Deep Learning Engineer 
     * 주요 활동: LSTM 기반 전력전기량 예측
     * code : https://github.com/Qwmk-hub/KERI-ERICA-2025-winter-project-main/tree/main/LSTM-project
     * Stack : Pytorch · LSTM
-
-<br/>
+    * 요약설명 : 전력량 변동이 큰 전기 연구소에서, 날짜별로 시계열 모델을 활용하여 전력량의 규칙을 파악하고, 발생하는 전력량을 예측함으로써 비용에 대비할수 있는 모델을 개발
 
 * **[마그론]** (2026.07 - 2026.08)
     * 직무: AI Agent Developer
     * 주요 활동: Magron 웹사이트 개발, RAG기반 챗봇 개발
     * link : <개발중>
-<br/>
+    * 요약설명 : <활동중>
 
 ---
 ## 🧐 Main Projects
@@ -64,6 +64,7 @@
     * 주요 활동: AI Agent 행동(Action) 의사결정 예측 챌린지
     * Tech : BERT, CodeBERT, DistilBERT
     * code : <개발중>
+    * 요약설명 : <활동중>
 
 ### 컴퓨터비전
 
@@ -72,6 +73,7 @@
     * 주요 활동: 핸디형 비전을 활용한 복합기 조작부 상태 감지 시스템 개발
     * Tech : Convolution Neural Network (ConvNext, EfficientNet)
     * code : https://github.com/Qwmk-hub/Development-of-the-state-detection-system-of-the-operating-part-of-the-multi-function-machine-using-
+    * 요약설명 : 캐논코리아 회사에서 프린터기에서 발생하는 화면넘김과정에서 특정 화면이 나올때 카메라가 식별하는 모델을 구축하기를 원함. CNN 기반 모델로 학습을 진행함
  
 * **[텐서프로그래밍]** (2026년 1학기)
     * 직무 : Deep Learning Enginner, Full Stack Developer
@@ -81,24 +83,27 @@
     * Frontend code : https://github.com/Qwmk-hub/Role-Roll-frontend
     * Backend code : https://github.com/Qwmk-hub/Role-Roll-backend
     * link : https://role-roll.github.io/Role-Roll-frontend/
+    * 요약설명 : CNN 모델, YOLO 모델, DETR 모델 3종류의 모델로 적혈구/낫모양적혈구/혈소판/백혈구가 모여있는 이미지를 탐지하게 함. 현미경으로 혈구를 관찰하는 연구원들이 좀 더 편하게 탐지할수 있게끔 하기 위해서이다. 결과적으로는 CNN의 ConvNext 모델이 미세한 백혈구/혈소판까지 모두 잡아낼수 있었다. 
 <br/>
 
 ### 머신러닝
 
 * **[데이터사이언스]** (2026년 1학기)
     * 직무 : Machine Learning Engineer, Full Stack Develop
-    * 주요 활동: 미국 물류 운송 데이터 기반 예측 모델 구축
+    * 주요 활동: 미국 물류 운송 트럭 데이터 기반 예측 모델 구축
     * Tech : Xgboost, Catboost, Randomforest, LightGBM
     * Stack : Javascript, Python, FastAPI
     * Frontend code : https://github.com/Qwmk-hub/nomad-frontend
     * Backend code : https://github.com/Qwmk-hub/nomad-backend
     * Model code : https://github.com/Qwmk-hub/nomad-AI
+    * 요약설명 : 미국의 큰 도시별로 트럭의 운송량과 관련 데이터를 바탕으로, 발생하는 비용을 예측함. 무게, 가격, GDP, 유가 등을 입력으로 넣었고, 그 다음년도의 운송금액을 예측하도록 함 
  
 * **[데이콘]** (2026.02)
     * 직무 : Machine Learning Engineer
     * 주요 활동: 9기 수강생 데이터 기반 10기 수강생 수료 여부 이진 분류 예측
     * Tech : Catboost, Randomforest
     * code : https://github.com/Qwmk-hub/dacon-project
+    * 9기 수강생들의 행동패턴(듣는 강의수, 관심분야, 미래 진로)등을 바탕으로 머신러닝 모델이 학습하게 하였고, 이후 10기 수강생들이 얼마나 끝까지 완주할수 있을지를 예측하게 함
  
 ### 데이터 분석
 
@@ -106,6 +111,7 @@
     * 직무 : Developer
     * 주요 활동: 지하철 승하차 인원과 상권 활성화의 관계 분석
     * code : https://github.com/Qwmk-hub/An-Analysis-of-the-Relationship-between-the-number-of-Subway-Cars-and-the-Revitalization-of-the-Comm
+    * 요약설명 : 지하철 시간대별 승하차 인원과 그때의 상권이 얼마나 활성화되는지를 분석하여 추후에 광고효과, 마케팅이 어떻게 하면 잘 이루어낼수 있을지를 방향 제시함
  
 ### 알고리즘 설계와 분석
 
@@ -113,11 +119,13 @@
     * 직무 : Algorithm Developer
     * 주요 활동: 버섯게임, 요트다이스 게임 알고리즘 개발
     * code : https://github.com/Qwmk-hub/An-Analysis-of-the-Relationship-between-the-number-of-Subway-Cars-and-the-Revitalization-of-the-Comm
+    * 요약설명 : 상대방과의 코드 배틀을 통해 상대방 코드의 허점을 발견하고 우리의 알고리즘이 그곳에 파고들수 있게 함. 버섯게임 같은 경우 사과게임에 땅따먹기를 추가한 버전인데, 상대 알고리즘의 바보짓을 유도하여 우리 알고리즘이 더 많은 땅을 얻을수 있게 함. 요트다이스 경우 우선순위를 정하여 더 높은 족보를 우선적으로 확보할수 있게끔 함
  
 * **[NYPC]** (2026.07)
     * 직무 : Algorithm Developer
     * 주요 활동: 
     * code : <개발중>
+    * 요약설명 : <활동중>
 
 ---
 ## 🏢 Career
