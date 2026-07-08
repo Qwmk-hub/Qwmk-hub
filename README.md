@@ -53,7 +53,7 @@
 ## 🧐 Main Projects
 
 ---
-## 🧐 Serve Projects
+## 🧐 Sub Projects
 
 ### 추천시스템
 
