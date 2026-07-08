@@ -48,9 +48,10 @@ Minor in ICT Convergence, Media Technology
     * 주요 활동: LSTM 기반 전력전기량 예측
 
 <br/>
+
 * **[마그론]** (2026.07 - 2026.08)
     * 직무: AI Agent Developer
-    * 주요 활동: 미정
+    * 주요 활동: Magron 웹사이트 개발, RAG기반 챗봇 개발
 <br/>
 
 ## 🏢 Career
