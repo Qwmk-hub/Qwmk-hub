@@ -68,8 +68,9 @@
     * 직무 : Deep Learning Enginner, Full Stack Developer
     * 주요 활동: 비전 기반 혈구 탐색 및 분류
     * Tech : Convolution Neural Network (ConvNext, EfficientNet, MobileNet, ResNet50), Yolo(Yolov5, Yolov8, Yolov11), DETR (RT-DETR, RF-DETR)
-    * code : https://github.com/Qwmk-hub/Development-of-the-state-detection-system-of-the-operating-part-of-the-multi-function-machine-using-
-    * link : 
+    * Frontend code : https://github.com/Qwmk-hub/Role-Roll-frontend
+    * Backend code : https://github.com/Qwmk-hub/Role-Roll-backend
+    * link : https://role-roll.github.io/Role-Roll-frontend/
 <br/>
 
 ## 🏢 Career
