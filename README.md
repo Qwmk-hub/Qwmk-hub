@@ -58,12 +58,24 @@
 
 ### 컴퓨터비전
 
+* **[머신러닝]** (2025년 1학기)
+    * 직무 : Deep Learning Enginner
+    * 주요 활동: 핸디형 비전을 활용한 복합기 조작부 상태 감지 시스템 개발
+    * Tech : Convolution Neural Network (ConvNext, EfficientNet)
+    * code : https://github.com/Qwmk-hub/Development-of-the-state-detection-system-of-the-operating-part-of-the-multi-function-machine-using-
+ 
+* **[텐서프로그래밍]** (2026년 1학기)
+    * 직무 : Deep Learning Enginner, Full Stack Developer
+    * 주요 활동: 비전 기반 혈구 탐색 및 분류
+    * Tech : Convolution Neural Network (ConvNext, EfficientNet, MobileNet, ResNet50), Yolo(Yolov5, Yolov8, Yolov11), DETR (RT-DETR, RF-DETR)
+    * code : https://github.com/Qwmk-hub/Development-of-the-state-detection-system-of-the-operating-part-of-the-multi-function-machine-using-
+    * link : 
 <br/>
 
 ## 🏢 Career
 * **[Intelligence and Computing]** (2024.07 - 2025.02)
     * 직무: 학부연구생
-    * 주요 활동: PYTORCH 모델 연구
+    * 주요 활동: Pytorch 모델 연구
 
 * **[Datascience Labs]** (2026.02 - Present)
     * 직무: 학부연구생
