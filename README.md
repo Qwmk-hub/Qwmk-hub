@@ -49,6 +49,7 @@
     * link : <개발중>
 <br/>
 
+---
 ## 🧐 Interests
 
 * **추천시스템**
@@ -61,6 +62,26 @@
 * **[Intelligence and Computing]** (2024.07 - 2025.02)
     * 직무: 학부연구생
     * 주요 활동: PYTORCH 모델 연구
+
+* **[Datascience Labs]** (2026.02 - Present)
+    * 직무: 학부연구생
+    * 주요 활동: 추천 모델 연구
+
+<br/>
+
+---
+## Leadership Activity
+* **[Lion's College Dream Leader]** (2025.01 - 2025.12)
+    * 직무: 자율전공학부 신입생 멘토
+    * 소속 : 라이온스칼리지
+    * 주요 활동: 신입생 학교 적응 도움 및 진로 조언 제공
+    * link : https://blog.naver.com/hyerica4473/223776608488
+
+* **[Lion Star]** (2025.09 - 2026.02)
+    * 직무: 창업교육센터 홍보 서포터즈
+    * 소속 : 창업교육센터
+    * 주요 활동: 학우들에게 창업 장려 및 홍보영상 제공
+    * link : https://www.instagram.com/hy_lionstar/
 
 * **[HYAI]** (2026.01 - Present)
     * 직무: 학회장
